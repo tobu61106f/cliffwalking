@@ -5,3 +5,4 @@ cliff_walking/
 ├── simulation.py        # 模拟运行
 └── main.py              # 主入口
 ```
+<img width="1440" height="520" alt="image" src="https://github.com/user-attachments/assets/bd30f76c-28e6-4ab3-9a5e-cf250814311c" />
